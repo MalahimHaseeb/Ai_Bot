@@ -38,6 +38,11 @@ or
 ``` 
 ## Tech Stack
 
+##Running the project
+To run this project, use the following command:
+```bash
+npm run dev
+```
 **Client:** Next.js, useContext, TailwindCSS, Gemini API
 
 
