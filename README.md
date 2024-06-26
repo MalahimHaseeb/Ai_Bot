@@ -38,7 +38,7 @@ or
 ``` 
 ## Tech Stack
 
-##Running the project
+## Running the project
 To run this project, use the following command:
 ```bash
 npm run dev
