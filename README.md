@@ -36,13 +36,14 @@ or
 ```bash
   npm i
 ``` 
-## Tech Stack
+
 
 ## Running the project
 To run this project, use the following command:
 ```bash
 npm run dev
 ```
+## Tech Stack
 **Client:** Next.js, useContext, TailwindCSS, Gemini API
 
 
