@@ -1,7 +1,7 @@
 
 # Ai using Gemini
 
-This website uses gemini ai and generates the outputs according to user input. 
+This website uses Gemini AI and generates outputs according to user input. 
 
 
 ## Demo
@@ -11,31 +11,33 @@ https://ai-bot-nu.vercel.app/
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `.env` file. Create the .env file at root directory
+To run this project, you will need to add the following environment variable to your .env file. Create the .env file in the root directory.
 
 `NEXT_PUBLIC_DB_API`
 
-And enter the yout gemini api
-
+And enter your Gemini API key.
 
 ## Features
 
-- Use ai
+- Uses AI
 - Responsive
-- Use useContext hook for globle states
+- Uses useContext hook for global states
 
 
 
 ## Installation
 
-Install my-project with npm
+Install the project with npm:
 
 ```bash
-  npm i
+  npm install
 ```
-    
+or 
+```bash
+  npm i
+``` 
 ## Tech Stack
 
-**Client:** Next js, useContext, TailwindCSS ,Gemini api
+**Client:** Next.js, useContext, TailwindCSS, Gemini API
 
 
